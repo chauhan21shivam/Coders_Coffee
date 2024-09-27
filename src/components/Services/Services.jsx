@@ -1,5 +1,5 @@
 import React from "react";
-import { easeInOut, motion } from "framer-motion";
+import { motion } from "framer-motion";
 import Coffee1 from "../../assets/coffee/coffee1.png";
 import Coffee3 from "../../assets/coffee/coffee3.png";
 const serviceData = [

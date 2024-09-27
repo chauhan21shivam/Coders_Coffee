@@ -59,7 +59,7 @@ const AppBanner = () => {
             }}
             className="flex justify-center items-center gap-4"
           >
-            <a href="#">
+            <a href="javascript:void(0)">
               <motion.img
                 initial={{ opacity: 0, y: 100 }}
                 animate={{ opacity: 1, y: 0 }}
@@ -74,7 +74,7 @@ const AppBanner = () => {
                 className="max-w-[150px] sm:max-w-[120px] md:max-w-[200px]"
               />
             </a>
-            <a href="#">
+            <a href="javascript:void(0)">
               <motion.img
                 initial={{ opacity: 0, y: 100 }}
                 animate={{ opacity: 1, y: 0 }}
