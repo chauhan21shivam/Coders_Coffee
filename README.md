@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 ### Deployment
-[Check Out the Live Version](https://coders-coffee-app.netlify.app)
+[Check Out the Live Version](https://coders-coffee-web.netlify.app)
 
 ## Available Scripts
 
